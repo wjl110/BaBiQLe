@@ -8,7 +8,7 @@ myImage.onclick = function() {
       myImage.setAttribute('src', '/image/wjl2.jpg');
     }
 }*/
-
+/*
 let myButton = document.querySelector('button');
 let myHeading = document.querySelector('h1');
 
@@ -35,3 +35,4 @@ function setUserName() {
     myHeading.textContent = '👏欢迎光临,For，' + myName;
   }
 }
+*/
